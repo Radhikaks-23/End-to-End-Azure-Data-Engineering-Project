@@ -21,11 +21,6 @@ By working on this project, I was able to learn these skills:
 * Data Security and Governance
 
 
-References: 
-Mr. K Talks Tech video on E2E Azure Data Engineering Project 
-[https://www.youtube.com/watch?v=iQ41WqhHglk&t=3624s]
-
-
 ## Prerequisites:
 
 1) Microsoft SQL Server Managment System (SSMS)
