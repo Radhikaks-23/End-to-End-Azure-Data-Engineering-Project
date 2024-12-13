@@ -1,5 +1,8 @@
 ## **Part 4: Data Reporting**
 
-Finally, load the data from the views using Microsoft Power BI. The Data is retrieved using DirectQuery to automatically run and update from the Cloud Pipelines.
+Finally, load the data from the views using Microsoft Power BI. 
 
 An Interactive Dashboard is created to showcase the sales data figures.
+
+![image](https://github.com/user-attachments/assets/a0ebe25f-a4a5-438c-84fa-de381cf5aa00)
+
