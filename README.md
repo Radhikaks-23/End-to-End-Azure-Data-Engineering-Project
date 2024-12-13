@@ -24,7 +24,7 @@ By working on this project, I was able to learn these skills:
 1) Microsoft SQL Server Managment System (SSMS)
 2) Azure Subscription (Azure Data Lake Storage Gen2, Azure Data Factory, Azure Key Vault, Azure Databricks, Azure Synapse Analytics, Microsoft Entra ID)
 3) Microsoft Power BI
-4) Set up "AdventureWorksLT2017" Database with credentials 'usr1'. Set up the same credentials as Secrets in Azure Key Vault
+4) Set up "AdventureWorksLT2017" Database with credentials . Set up the same credentials as Secrets in Azure Key Vault
 
 The Database used for this project demonstration is:
 AdventureWorksLT2017 Sales Database
